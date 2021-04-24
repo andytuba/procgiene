@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Housekeeping Tips from Mom",
+  "url": "https://goosap.us/honk/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Shitposting about resilience engineering with ADHD",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Shitposting about resilience engineering with ADHD",
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "path": "/honk/feed/feed.xml",
+    "id": "https://goosap.us/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://goosap.us/honk/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "andytuba (they or he)",
+    "email": "at@andytuba.com",
+    "url": "https://andytuba.com"
   }
 }
