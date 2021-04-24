@@ -45,6 +45,9 @@ main {
 main :first-child {
   margin-top: 0;
 }
+.tmpl-post hr + p :link:not(:hover) {
+  text-decoration: none;
+}
 header {
   border-bottom: 1px dashed var(--lightgray);
 }
@@ -239,7 +242,7 @@ a[href].post-tag:focus {
 
 /* Direct Links / Markdown Headers */
 .direct-link {
-  font-family: sans-serif;
+  f ont-family: sans-serif;
   text-decoration: none;
   font-style: normal;
   margin-left: .1em;
