@@ -4,7 +4,7 @@
   "description": "andytuba's personal blog, 'honk'",
   "scripts": {
     "build": "eleventy",
-    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/honk/",
+    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/blonk/",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andytuba/honk.git"
+    "url": "git://github.com/andytuba/blonk.git"
   },
   "author": {
     "name": "andytuba",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andytuba/honk/issues"
+    "url": "https://github.com/andytuba/blonk/issues"
   },
-  "homepage": "https://goosap.us/honk/",
+  "homepage": "http://goosap.us/blonk/",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.1.6",

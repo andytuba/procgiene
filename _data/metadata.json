@@ -1,18 +1,18 @@
 {
   "title": "Housekeeping Tips from Mom (notes from andytuba)",
   "short_title": "Housekeeping Tips from Mom",
-  "url": "https://goosap.us/honk/",
+  "url": "http://goosap.us/blonk/",
   "language": "en",
   "description": "Shitposting about resilience engineering with ADHD",
   "feed": {
     "subtitle": "Shitposting about resilience engineering with ADHD",
     "filename": "feed.xml",
-    "path": "/honk/feed/feed.xml",
-    "id": "https://goosap.us/"
+    "path": "/blonk/feed/feed.xml",
+    "id": "http://goosap.us/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://goosap.us/honk/feed/feed.json"
+    "url": "http://goosap.us/blonk/feed/feed.json"
   },
   "author": {
     "name": "andytuba (they or he)",
@@ -20,3 +20,4 @@
     "url": "https://andytuba.com"
   }
 }
+

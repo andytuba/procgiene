@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-permalink: /posts/
+permalink: /on/
 eleventyNavigation:
   key: shitposts
   order: 2
@@ -8,5 +8,5 @@ eleventyNavigation:
 
 <h1><a href="{{ permalink | url }}">shitposts</a></h1>
 
-{% set postslist = collections.posts %}
+{% set postslist = collections.on %}
 {% include "postslist.njk" %}

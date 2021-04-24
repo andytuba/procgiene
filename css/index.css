@@ -130,7 +130,8 @@ code {
   font-weight: normal;
   font-style: italic;
 }
-.home :link:not(:hover) {
+.home :link:not(:hover),
+.tmpl-home > h1 :link:not(:hover) {
   text-decoration: none;
 }
 

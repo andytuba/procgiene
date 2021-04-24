@@ -43,7 +43,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("filterTagList", tags => {
     // should match the list in tags.njk
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "on", "post", "posts"].indexOf(tag) === -1);
   })
 
   // Create an array of all tags
@@ -111,7 +111,7 @@ module.exports = function(eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
 
     // Optional (default is shown)
-    pathPrefix: "/honk",
+    pathPrefix: "/blonk",
     // -----------------------------------------------------------------
 
     // Pre-process *.md files with: (default: `liquid`)
