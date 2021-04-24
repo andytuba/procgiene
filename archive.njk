@@ -2,11 +2,11 @@
 layout: layouts/home.njk
 permalink: /posts/
 eleventyNavigation:
-  key: Archive
+  key: shitposts
   order: 2
 ---
 
-<h1>Archive</h1>
+<h1><a href="{{ permalink | url }}">shitposts</a></h1>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}

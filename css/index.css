@@ -5,7 +5,7 @@
   --darkgray: #333;
   --navy: #17050F;
   --blue: #082840;
-  --white: #fff;
+  --white: #fcfcfc;
 }
 
 /* Global stylesheet */
@@ -126,6 +126,10 @@ code {
   margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
+.home small {
+  font-weight: normal;
+  font-style: italic;
+}
 .home :link:not(:hover) {
   text-decoration: none;
 }
@@ -191,6 +195,10 @@ code {
   font-weight: 700;
 }
 
+.post-title a[href]:not(:hover) {
+  text-decoration: none;
+}
+
 
 /* Tags */
 .post-tag {
@@ -244,4 +252,25 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+
+/* ------- */
+.flex-two-column {
+  display:flex;
+  flex-direction:row;
+}
+.flex-centered {
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.avatar {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%; 
+  border: 0.3em var(--darkgray) solid;
+  margin-right: 1em;
 }

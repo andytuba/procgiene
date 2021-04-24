@@ -2,13 +2,15 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+<h1 class="post-title"><a href="{{ url | url }}">{{ title }}</a></h1>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
+<p>
+  <a href="{{ url | url }}"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></a>
+  {%- for tag in tags | filterTagList -%}
+  {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {%- endfor %}
+</p>
 
 {{ content | safe }}
 
@@ -17,7 +19,8 @@ templateClass: tmpl-post
 {%- if nextPost or previousPost %}
 <hr>
 <ul>
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+  {%- if nextPost %}<li>next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  <li>this post: <a href="{{ url | url }}">{{ title }}</a></li>
+  {%- if previousPost %}<li>previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
 </ul>
 {%- endif %}
