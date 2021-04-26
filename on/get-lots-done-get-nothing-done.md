@@ -1,5 +1,5 @@
 ---
-title: Get lots done (even if you get nothing done)
+title: Getting nothing done? Get lots of little done!
 description: 
 date: 2021-04-25
 tags:
@@ -22,7 +22,9 @@ I see the kitchen trash is full. Let's take that out to the garage.
 
 Turns out I left some cardboard boxes in the garage. I'll bring those inside to break down with the rest.
 
-And ... we're back at the stack of cardboard boxes. Today's task may be a little bigger than when I started, but I still took care of a bunch of little tasks!
+And ... I've made it back to the stack of cardboard boxes, but with housekeeping inertia!
+
+Even if I end the day with more cardboard than I started, I still took care of lots of housekeeping!
 
 ---
 
