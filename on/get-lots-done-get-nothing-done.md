@@ -1,11 +1,11 @@
 ---
-title: Opportunistic Progress
+title: Get lots done (even if you get nothing done)
 description: 
 date: 2021-04-25
 tags:
- - little rocks
- - productive procrastination
+ - opportunistic
  - lazy wins
+ - little rocks
 
 layout: layouts/post.njk
 ---
