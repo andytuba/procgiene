@@ -22,7 +22,7 @@ I see the kitchen trash is full. Let's take that out to the garage.
 
 Turns out I left some cardboard boxes in the garage. I'll bring those inside to break down with the rest.
 
-And ... we're back at the stack of cardboard boxes. The task may be a little taller than when I started, but I still took care of a bunch of small rocks!
+And ... we're back at the stack of cardboard boxes. The task may be a little taller than when I started, but I still took care of a bunch of little tasks!
 
 ---
 
