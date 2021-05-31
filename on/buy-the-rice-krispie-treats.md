@@ -10,8 +10,6 @@ layout: layouts/post.njk
 
 tldr: It's less money, effort, and clean-up to buy the Rice Krispie Treats from the store, unless you have unusual needs for a batch of treats.
 
-[&#x1F426;&#x1F4AC;](https://twitter.com/andytuba/status/1381361736125612034)
-
 ## Let's make some Rice Krispie Treats
 
 Tools: 
@@ -86,4 +84,4 @@ Life is short, industrial society has economies of scale. Unless you want a cust
 
 
 ---
-[&#x1F426;&#x1F4AC;](https://twitter.com/andytuba/status/1381361736125612034)
+https://twitter.com/andytuba/status/1381361736125612034

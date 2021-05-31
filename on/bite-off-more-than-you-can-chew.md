@@ -12,7 +12,6 @@ If you [plan your quarter](./why-bother-with-quarterly-planning) to take on a li
 
 _(This is how we practice quarterly project planning at work, not actually tips from my mom.)_
 
-[&#x1F426;&#x1F4AC;](https://twitter.com/andytuba/status/1399072990906654720)
 
 ---
 
@@ -62,3 +61,7 @@ Even when people are intrinsically motivated to do the work and manage their own
 * Middle managers ask line managers every other week "how are your team's projects coming along? progress & shipping confidence, on a scale of 1-10? do you need to rescope to accomplish this important thing?"
 * Upper management ask middle management every month "how are OKRs coming along, on a scale of 1-10?"
 * The board asks upper management ~~"where's my money"~~ "how is the company's bottom line coming along this quarter?"
+
+---
+
+https://twitter.com/andytuba/status/1399072990906654720
