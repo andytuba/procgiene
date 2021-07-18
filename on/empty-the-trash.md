@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 The "organize a zone" tips I see from [FlyLady's newsletter](./flylady) and [Susan C Pinsky's "organizing systems" book](https://www.organizationallyours.com/books/organizing-solutions-for-people-with-adhd/) both include a major double-header tip:
 
-- Empty your trash can before it's full
+- Empty your trash can [before it's full](./the-trash-is-full)
 - Start your task with an empty trash can
 
 ## Cleaning the house
