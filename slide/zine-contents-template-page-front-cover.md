@@ -11,4 +11,4 @@ layout: layouts/post.njk
 
 A
 _Wavelength_
-Procʤine Template
+Procgiene Template

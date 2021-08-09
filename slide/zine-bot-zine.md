@@ -1,5 +1,5 @@
 ---
-title: How-To How-To Procʤine
+title: How-To How-To Procgiene
 
 tags:
 date: 1000-04-10
@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 A
 _Wavelength_
-Procʤine Template
+Procgiene Template
 
 # Page 1
 
@@ -67,11 +67,11 @@ Type in a bunch of JSON
 **Step 4**
 Find all the generalizable phrases and "refactor them" into
 
-`"blah blah #generic phrase# blah blah"`
+`"blah blah #generalizable phrase# blah blah"`
 
 and 
 
-`"generic phrase": [ "say it normal", "say it some other way"]`
+`"generalizable phrase": [ "say it normal", "say it some other way"]`
 
 **Step 5**
 Roll the dice a few times and see what you like!

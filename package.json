@@ -1,10 +1,10 @@
 {
-  "name": "andytuba-proczine",
+  "name": "andytuba-procgiene",
   "version": "0.0.1",
   "description": "andytuba's talk about procgen zines",
   "scripts": {
     "build": "eleventy",
-    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/proczine/",
+    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/procgiene/",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andytuba/proczine/issues"
+    "url": "https://github.com/andytuba/procgiene/issues"
   },
   "homepage": "http://goosap.us/procen-zine/",
   "devDependencies": {
