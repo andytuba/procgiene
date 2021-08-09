@@ -1,10 +1,10 @@
 {
-  "name": "andytuba-honk",
+  "name": "andytuba-proczine",
   "version": "0.0.1",
-  "description": "andytuba's personal blog, 'honk'",
+  "description": "andytuba's talk about procgen zines",
   "scripts": {
     "build": "eleventy",
-    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/blonk/",
+    "pub": "eleventy && cp -R _site/* ~/www/goosap.us/proczine/",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andytuba/blonk/issues"
+    "url": "https://github.com/andytuba/proczine/issues"
   },
-  "homepage": "http://goosap.us/blonk/",
+  "homepage": "http://goosap.us/procen-zine/",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.1.6",

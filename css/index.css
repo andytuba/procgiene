@@ -156,7 +156,7 @@ code {
   font-weight: 700;
   text-decoration: underline;
 }
-
+footer a { text-decoration: none; }
 /* Posts list */
 .postlist {
   list-style: none;

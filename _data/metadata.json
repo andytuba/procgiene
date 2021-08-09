@@ -1,21 +1,21 @@
 {
-  "title": "Housekeeping Tips from Mom (notes from andytuba)",
-  "short_title": "Housekeeping Tips from Mom",
-  "url": "http://goosap.us/blonk/",
+  "title": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
+  "short_title": "Procʤine",
+  "url": "http://goosap.us/proczine/",
   "language": "en",
-  "description": "Shitposting about resilience engineering with ADHD",
+  "description": "What if we wrote a bot to draw a zine on writing bots that draw zines? During this session, you'll learn how to craft a no-code script to randomly generate zine titles, stories, and art--then run it immediately in your browser or automatically as a Twitter bot. No guarantees they'll make sense, but they'll be fun!",
   "feed": {
-    "subtitle": "Shitposting about resilience engineering with ADHD",
+    "subtitle": "No guarantees they'll make sense, but they'll be fun!",
     "filename": "feed.xml",
-    "path": "/blonk/feed/feed.xml",
-    "id": "http://goosap.us/"
+    "path": "/proczine/feed/feed.xml",
+    "id": "http://goosap.us/proczine"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "http://goosap.us/blonk/feed/feed.json"
+    "url": "http://goosap.us/proczine/feed/feed.json"
   },
   "author": {
-    "name": "andytuba (they or he)",
+    "name": "twitter.com/andytuba (they or he)",
     "email": "at@andytuba.com",
     "url": "https://andytuba.com"
   }
