@@ -6,12 +6,13 @@ templateClass: tmpl-post
 
 {{ content | safe }}
 
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- set nextPost = collections.slide | getNextCollectionItem(page) %}
+{%- set previousPost = collections.slide | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
 <hr>
 <footer>
   {%- if previousPost %}<a href="{{ previousPost.url | url }}" title="previous slide: {{ previousPost.data.title }}">&#x2b05;</a></li>{% endif %}
+  {%- if previousPost and nextPost %} &middot; {% endif %}
   {%- if nextPost %}<a href="{{ nextPost.url | url }}" title="next slide: {{ nextPost.data.title }}">&#x27a1;</a></li>{% endif %}
 </footer>
 {%- endif %}

@@ -1,8 +1,8 @@
 ---
 layout: layouts/home.njk
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
+{% set maxPosts = collections.slide.length | min(3) %}
 
-{% set postslist = collections.posts %}
-{% set postslistCounter = collections.posts | length %}
+{% set postslist = collections.slide %}
+{% set postslistCounter = collections.slide | length %}
 {% include "postslist.njk" %}

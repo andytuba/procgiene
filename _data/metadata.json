@@ -1,11 +1,12 @@
 {
-  "title": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
   "short_title": "Procʤine",
+  "title": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
+  "subtitle": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
   "url": "http://goosap.us/proczine/",
   "language": "en",
   "description": "What if we wrote a bot to draw a zine on writing bots that draw zines? During this session, you'll learn how to craft a no-code script to randomly generate zine titles, stories, and art--then run it immediately in your browser or automatically as a Twitter bot. No guarantees they'll make sense, but they'll be fun!",
   "feed": {
-    "subtitle": "No guarantees they'll make sense, but they'll be fun!",
+    "subtitle": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
     "filename": "feed.xml",
     "path": "/proczine/feed/feed.xml",
     "id": "http://goosap.us/proczine"
