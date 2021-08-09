@@ -3,8 +3,6 @@ layout: layouts/home.njk
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
 
-{% set postslist = collections.posts | head(-5) %}
+{% set postslist = collections.posts %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
-<p><a href="{{ '/slide/' | url }}">want more?</a></p>
