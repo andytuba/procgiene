@@ -1,11 +1,14 @@
 ---
-title: How-To How-To Procgiene
+title: Page 4 - How to start, keep going...
 
 tags:
-date: 1000-04-10
+date: 1004-01-01
 
 layout: layouts/post.njk
 ---
+
+![A photo of how I drew the following text into a zine](../../img/procgiene-by-andytuba-20210812.jpg)
+[(view full size)](../../img/procgiene-by-andytuba-20210812.jpg)
 
 # Front cover
 

@@ -1,11 +1,13 @@
 ---
-title: PART 1 - What if …
+title: Page 1 - HOW TO do a thing SO THAT YOU CAN outcome of doing the thing
 
 tags:
-date: 1000-01-03
+date: 1001-01-01
 
 layout: layouts/post.njk
 ---
+
+What if …
 
 we made a zine
 

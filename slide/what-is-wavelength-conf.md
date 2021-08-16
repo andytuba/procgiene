@@ -2,7 +2,7 @@
 title: What is Wavelength Conf?
 
 tags:
-date: 1000-01-40
+date: 1003-01-40
 
 layout: layouts/post.njk
 ---
