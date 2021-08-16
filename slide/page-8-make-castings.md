@@ -9,4 +9,4 @@ layout: layouts/post.njk
 
 Now that we have a versatile mold, let's make some castings! 
 
-Find a Tracery generator, feed it your grammar, and see what comes out.
+Find a Tracery generator, feed it your grammar, and [see what comes out.](http://emptyjug.xxx/tracery/procgiene)

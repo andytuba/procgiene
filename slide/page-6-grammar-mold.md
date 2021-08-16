@@ -7,18 +7,14 @@ date: 1006-01-20
 layout: layouts/post.njk
 ---
 
-TODO: turn this into Tracery JSON
-
-
-## Cover page
-
-**How-to Zine**
-
-A
-_WavelengthConf_
-Procgiene Template
-
-\[Riffing on the ["How-To Zine" Wavelength zine template](https://wavelengthconf.com)\]
+```json
+{  
+    "origin": "#FrontCover# #Page1# #Page2# ... #BackCover#",
+    "FrontCover": "Cover page\n---\n\n**How-to Zine**\n\nA _WavelengthConf_ Procgiene Template",
+    "Page1": "Page 1\n---\n\n**How-to**\n\n`do a thing`\n\nSO THAT YOU CAN\n\n`outcome of doing the thing.`",
+    "Page2": "Page 2\n---\n\n`Describe the problem this how-to solves`\n\n`What's the PAIN???`"
+}
+```
 
 ## Page 1
 **How-to**
@@ -34,17 +30,3 @@ SO THAT YOU CAN
 `Describe the problem this how-to solves.`
 
 `What's the PAIN???`
-
-
-## Page 3
-
-(For access to the rest of the original Wavelength Zine Template, ask Marlena at Let's Sketch Tech about their zine workshop materials!)
-
-## Back cover
-To find out more about
-
-`this thing`,
-
-Follow me on
-
-`social media handle`
