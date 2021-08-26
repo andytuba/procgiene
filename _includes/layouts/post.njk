@@ -2,6 +2,13 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+
+<nav>
+  {% set postslist = collections.slide %}
+  {% set url = page.url %}
+  {% include "postslist.njk" %}
+</nav>
+
 <h1 class="post-title"><a href="{{ url | url }}">{{ title }}</a></h1>
 
 {{ content | safe }}

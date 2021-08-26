@@ -156,6 +156,17 @@ code {
   font-weight: 700;
   text-decoration: underline;
 }
+
+.tmpl-post nav {
+  float: right;
+  max-width: 25%;
+  text-overflow: ellipsis;
+  border: 1px #ccc solid;
+  border-right-width: 0;
+  margin: 1em 0;
+  padding: 1em;
+}
+
 footer a { 
   text-decoration: none; 
 }
