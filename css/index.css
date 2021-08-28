@@ -45,6 +45,10 @@ main {
 main :first-child {
   margin-top: 0;
 }
+.tmpl-post iframe {
+  width: 60%;
+  min-height: 300px;
+}
 .tmpl-post hr + p :link:not(:hover) {
   text-decoration: none;
 }

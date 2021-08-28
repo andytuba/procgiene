@@ -22,8 +22,8 @@ Progzine Template
 
 **How-to**
 
-write a bot 
-that makes zines
+write a 🤖 bot 
+that makes 📓 zines
 
 SO THAT YOU CAN
 
@@ -41,7 +41,7 @@ _the best phrasing._
 
 # Page 3
 
-With a Tracery bot,
+With a 🤖 Tracery bot,
 I can generate 
 many different phrasings
 and pick my favorites to draw!
@@ -82,7 +82,7 @@ Roll the dice a few times and see what you like!
 ## Page 6
 
 ```
-How to Write a zine bot
+How to Write a 🤖 zine bot
 ---
 How to compose a script to make the best zine
 ---
@@ -90,7 +90,7 @@ How to compose a script to make the best zine
 ```
 
 ```
-How to Craft a Tracery Bot
+How to Craft a 🤖 Tracery Bot
 ---
 How to generate zines from scripts
 ---

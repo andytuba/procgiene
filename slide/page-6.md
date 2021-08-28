@@ -1,5 +1,5 @@
 ---
-title: Page 6 - Molding and Casting
+title: Page 6 - Build the grammar
 
 tags:
 date: 1006-01-01
@@ -7,10 +7,11 @@ date: 1006-01-01
 layout: layouts/post.njk
 ---
 
-When building Tracery bots, I prefer following a "molding and casting" process:
+My process for writing Tracery bots:
 
-1. Write out a "final version" of my desired final product (more or less)
-2. Make a mold derived from it: convert it into a Tracery grammar
-3. Enhance the mold by adding placeholders/variations
-4. Make "castings" from my mold by putting the grammar through a Tracery-powered generator
-5. Pick my favorite castings and throw away the rest
+1. Write out a "final draft"
+2. Convert it into a Tracery grammar
+3. Identify "synonyms" and turn them into placeholders
+4. Add more options for the placeholders
+4. Generate a bunch of variations from the Tracery grammar
+5. Pick out my favorite variations

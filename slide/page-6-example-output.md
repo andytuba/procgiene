@@ -1,11 +1,16 @@
 ---
-title: Start with a concrete version
+title: Write out a "final draft" 
 
 tags:
 date: 1006-01-10
 
 layout: layouts/post.njk
 ---
+
+Let's start at the end: writing our "final draft". For this example, let's use Marlena's "How-To Template Zine".
+
+---
+
 
 ## Cover page
 

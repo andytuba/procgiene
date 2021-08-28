@@ -9,14 +9,14 @@ layout: layouts/post.njk
 
 What if …
 
-we made a zine
+we made a 📓 zine
 
-about bots
+about 🤖 bots
 
-that make zines
+that make 📓 zines
 
-about bots
+about 🤖 bots
 
-that make zines
+that make 📓zines
 
 (and then we talked about it)

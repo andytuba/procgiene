@@ -2,7 +2,7 @@
 title: Back cover - To find out more, follow me 
 tags:
  - skeleton
-date: 12-31
+date: 2000-01-01
 
 layout: layouts/post.njk
 ---

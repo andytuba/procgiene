@@ -1,5 +1,5 @@
 ---
-title: Make a mold - a Tracery grammar
+title: Convert it into a Tracery grammar
 
 tags:
 date: 1006-01-20
