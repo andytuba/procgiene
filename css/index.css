@@ -56,6 +56,12 @@ header:after {
   display: table;
   clear: both;
 }
+@media only screen and (max-width: 600px) {
+  header small {
+    display: none;
+  }
+}
+
 table {
   margin: 1em 0;
 }
@@ -157,14 +163,51 @@ code {
   text-decoration: underline;
 }
 
-.tmpl-post nav {
-  float: right;
-  max-width: 25%;
-  text-overflow: ellipsis;
-  border: 1px #ccc solid;
-  border-right-width: 0;
-  margin: 1em 0;
-  padding: 1em;
+@media print {
+  .tmpl-post nav {
+    display: none;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .tmpl-post nav {
+    float: right;
+    max-width: 25%;
+    text-overflow: ellipsis;
+    border: 1px #ccc solid;
+    border-right-width: 0;
+    margin: 1em 0;
+    padding: 1em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .avatar {
+    height: 32px;
+  }
+  .post-title  {
+    margin-top: 0;
+  }
+  .tmpl-post {
+    padding: 0 1em 100px;
+  }
+  .tmpl-post nav {
+    position: fixed;
+    z-index: 1000;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.5em;
+    text-align: center;
+  }
+
+  .tmpl-post nav .prevnext {
+    display: block;
+    width: 100%;
+  }
+
+  .tmpl-post nav .postlist {
+    display: none;
+  }
 }
 
 .prevnext a { 
@@ -201,9 +244,16 @@ code {
 .postlist-link {
   padding-left: .25em;
   padding-right: .25em;
+  text-decoration: none;
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
+}
+.postlist-link:active, 
+.postlist-link:focus, 
+.postlist-link:hover
+{
+  text-decoration: underline;
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
@@ -291,4 +341,10 @@ a[href].direct-link:focus:visited,
   border-radius: 50%; 
   border: 0.3em var(--darkgray) solid;
   margin-right: 1em;
+}
+@media only screen and (max-width: 600px) {
+  .avatar {
+    height: 32px;
+    width: 32px;
+  }
 }
