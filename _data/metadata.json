@@ -1,19 +1,19 @@
 {
-  "short_title": "Procgiene",
+  "short_title": "Progzine",
   "title": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
   "subtitle": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
-  "url": "http://goosap.us/procgiene/",
+  "url": "http://goosap.us/progzine/",
   "language": "en",
   "description": "What if we wrote a bot to draw a zine on writing bots that draw zines? During this session, you'll learn how to craft a no-code script to randomly generate zine titles, stories, and art--then run it immediately in your browser or automatically as a Twitter bot. No guarantees they'll make sense, but they'll be fun!",
   "feed": {
     "subtitle": "What if we wrote a bot to draw a zine on writing bots that draw zines?",
     "filename": "feed.xml",
-    "path": "/procgiene/feed/feed.xml",
-    "id": "http://goosap.us/procgiene"
+    "path": "/progzine/feed/feed.xml",
+    "id": "http://goosap.us/progzine"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "http://goosap.us/procgiene/feed/feed.json"
+    "url": "http://goosap.us/progzine/feed/feed.json"
   },
   "author": {
     "name": "andytuba (they or he)",

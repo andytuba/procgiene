@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 A
 _WavelengthConf_
-Procgiene Template
+Progzine Template
 
 \[Riffing on the ["How-To Zine" Wavelength zine template](https://wavelengthconf.com)\]
 

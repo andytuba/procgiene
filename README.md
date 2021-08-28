@@ -1,1 +1,1 @@
-http://goosap.us/procgiene
+http://goosap.us/progzine

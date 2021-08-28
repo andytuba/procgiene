@@ -21,9 +21,9 @@
           >
         </a>
         <div>
-          <a href="{{ '/' | url }}">{{ metadata.short_title }}</a><br>
-          <small>{{ metadata.description }}</small><br>
-          <small><a href="{{ '/about/' | url }}">– {{ metadata.author.name }}</a></small>
+          <a class="metadata-shorttitle" href="{{ '/' | url }}">{{ metadata.short_title }}</a><br>
+          <small class="metadata-description">{{ metadata.description }}</small><br>
+          <small class="metadata-author"><a href="{{ '/about/' | url }}">– {{ metadata.author.name }}</a></small>
         </div>
       </h1>
     </header>

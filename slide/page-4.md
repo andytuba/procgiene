@@ -7,8 +7,8 @@ date: 1004-01-01
 layout: layouts/post.njk
 ---
 
-![A photo of how I drew the following text into a zine](../../img/procgiene-by-andytuba-20210812.jpg)
-[(view full size)](../../img/procgiene-by-andytuba-20210812.jpg)
+![A photo of how I drew the following text into a zine](../../img/progzine-by-andytuba-20210812.jpg)
+[(view full size)](../../img/progzine-by-andytuba-20210812.jpg)
 
 # Front cover
 
@@ -16,7 +16,7 @@ layout: layouts/post.njk
 
 A
 _Wavelength_
-Procgiene Template
+Progzine Template
 
 # Page 1
 
