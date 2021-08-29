@@ -47,7 +47,7 @@ main :first-child {
 }
 .tmpl-post iframe {
   width: 60%;
-  min-height: 500px;
+  min-height: 1000px;
 }
 .tmpl-post blockquote {
   border-left: 2px #ccc solid;

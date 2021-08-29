@@ -11,5 +11,5 @@ So, what zines would you write? Your turn to play!
 
 You can fork my project at [github.com/andytuba/basicbeach](https://github.com/andytuba.com) and run it locally (requires yarn) or in Glitch.
 
-What bots will you make? Share your progresw and results with us on twitter with the hashtags `#progzine` `#tracery` and on Let's Sketch Tech discord!
+What bots will you make? Share your ideas, progress, and results on Twitter with the hashtags `#progzine` `#tracery` and on Discord in the WavelengthConf / Let's Sketch Tech server!
 

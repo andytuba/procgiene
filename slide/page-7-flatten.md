@@ -2,7 +2,7 @@
 title: Generate variations
 
 tags:
-date: 1007-12-01
+date: 1007-05-01
 
 layout: layouts/post.njk
 ---

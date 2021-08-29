@@ -7,6 +7,9 @@ date: 1004-01-01
 layout: layouts/post.njk
 ---
 
+I wrote a zine on how to make bots, back in August at the WavelengthConf zine workshops. That zine is what we're walking through right now. (If you missed the WavelengthConf zine exchange, you can download this page, print it out, and fold it into a zine yourself.)
+
+
 ![A photo of how I drew the following text into a zine](../../img/procgiene-by-andytuba-20210812.jpg)
 [(view full size)](../../img/procgiene-by-andytuba-20210812.jpg)
 

@@ -1,13 +1,16 @@
 ---
-title: Write out a "final draft" 
+title: Hand-write a "final draft" 
 
 tags:
-date: 1006-01-10
+date: 1006-01-01
 
 layout: layouts/post.njk
 ---
 
-Let's start at the end: writing our "final draft". For this example, let's use Marlena's "How-To Template Zine".
+Let's start at the end: writing our "final draft". 
+
+For this example, I'll adapt ["How-To Zine" Wavelength zine template](https://www.canva.com/design/DAEkasexP5c/BQy5HAYYuz1f5tbhByJh1Q/view) into a *proczine*. Below is a transcription of several pages of that document.
+
 
 ---
 
@@ -19,8 +22,6 @@ Let's start at the end: writing our "final draft". For this example, let's use M
 A
 _WavelengthConf_
 Progzine Template
-
-\[Riffing on the ["How-To Zine" Wavelength zine template](https://wavelengthconf.com)\]
 
 ## Page 1
 **How-to**

@@ -1,8 +1,8 @@
 ---
-title: Final Draft
+title: Hand-write a "final draft"
 
 tags:
-date: 1007-02-04
+date: 1007-01-01
 
 layout: layouts/post.njk
 ---

@@ -2,12 +2,12 @@
 title: Identify "synonyms" and turn them into placeholders
 
 tags:
-date: 1006-04-01
+date: 1006-03-01
 
 layout: layouts/post.njk
 ---
 
-We started with a basic grammar that's not really useful.
+We started with a basic grammar that's not really useful. It can be more useful if we identify words or phrases that could be replaced with synonyms.
 
 ```json
 {  

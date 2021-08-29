@@ -2,14 +2,12 @@
 title: Add more options for the placeholders
 
 tags:
-date: 1006-05-01
+date: 1006-04-01
 
 layout: layouts/post.njk
 ---
 
-Here's where the real magic happens!
-
-Now that I've identified phrases I might want to change, I can put in a bunch of options.
+Almost there! Now that I've identified phrases I might want to change, like "how-to" and "thing", I can add in more options for synonyms.
 
 ```json
 {  

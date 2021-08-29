@@ -2,7 +2,7 @@
 title: Tracery grammar
 
 tags:
-date: 1007-01-01
+date: 1007-02-01
 
 layout: layouts/post.njk
 ---
@@ -12,13 +12,15 @@ Time to convert the "final draft" text into a plain Tracery grammar.
 
 ```json
 {  
-    "origin": "#FrontCover# #Page1# #Page2# #Page3#",
+    "origin": "#FrontCover# \n\n #Page1# \n\n #Page2# \n\n #Page3#",
     "FrontCover": "Cover page \n---\n\n How-to \"Generate a How-To Zine\" Zine \n\n A WavelengthConf Progzine",
     "Page1": "Page 1 \n---\n\n How-to \n\n write a bot \n that makes zines  \n\n  SO THAT YOU CAN \n\n make the best \n zine-ziner-zines",
     "Page2": "Page 2 \n---\n\n I have many ideas on \n how to craft a zine, \n\n but struggle with picking \n the best phrasing.",
     "Page3": "Page 3 \n---\n\n With a Tracery bot, \n I can generate \n many different phrasings \n and pick my favorites to draw!"
 }
 ```
+
+That's our Tracery version (above) of our plain text (below).
 
 ---
 
