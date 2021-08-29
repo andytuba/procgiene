@@ -61,7 +61,7 @@ Tap the button ( Jump into the editor )
 
 Type in a bunch of JSON
 { 
-    "origin": "#Cover#\n\n---\n\n#Page 1#\n\n---\n\n#Page 2#..."
+    "origin": "#Cover# \n\n---\n\n #Page 1# \n\n---\n\n #Page 2#..."
     "Cover": "How to write a bot...",
     "Page 1": "How to do a thing so that you can outcome ..."
     ...
