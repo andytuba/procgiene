@@ -237,6 +237,9 @@ code {
   line-height: 100%;
   text-align: right;
 }
+
+.tmpl-post nav .postlist-item:before { content: none; }
+.tmpl-post nav .postlist-item { margin-bottom: .2em; }
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */

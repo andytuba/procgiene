@@ -2,7 +2,7 @@
 title: Page 7 - what we promised
 
 tags:
-date: 1010-01-01
+date: 1007-01-01
 
 layout: layouts/post.njk
 ---
