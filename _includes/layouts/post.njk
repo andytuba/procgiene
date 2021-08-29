@@ -9,7 +9,7 @@ templateClass: tmpl-post
   {%- if nextPost or previousPost %}
     <span class="prevnext">
       {%- if previousPost %}<a href="{{ previousPost.url | url }}" title="previous slide: {{ previousPost.data.title }}">&#x2b05;</a></li>{% endif %}
-      {%- if previousPost and nextPost %} &middot; {% endif %}
+      {%- if previousPost and nextPost %} &nbsp; {% endif %}
       {%- if nextPost %}<a href="{{ nextPost.url | url }}" title="next slide: {{ nextPost.data.title }}">&#x27a1;</a></li>{% endif %}
     </span>
   {%- endif %}
