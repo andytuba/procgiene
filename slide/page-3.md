@@ -8,12 +8,13 @@ date: 1003-01-01
 layout: layouts/post.njk
 ---
 
-Let's plumb together a bot that puts together different phrasings about
+Let's plumb together a bot that writes zines:
 
-how to make a **zine** with **pen & paper**
 
-about designing a **bot** with **[Tracery](https://tracery.io)**
+* on how to make a **zine** with **pen & paper**
 
-that can compose many **variations** on how to design bots that write zines
+* about designing a **bot** with **[Tracery](https://tracery.io)**
 
-(so we can **talk** about it at **[Wavelength Conf](https://wavelengthconf)**)
+* that can compose many **variations** on how to design bots that write zines
+
+* (so we can **talk** about it at **[Wavelength Conf](https://wavelengthconf)**)

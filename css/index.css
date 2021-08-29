@@ -49,6 +49,11 @@ main :first-child {
   width: 60%;
   min-height: 300px;
 }
+.tmpl-post blockquote {
+  border-left: 2px #ccc solid;
+  margin-left: .1em;
+  padding-left: 0.7em;
+}
 .tmpl-post hr + p :link:not(:hover) {
   text-decoration: none;
 }

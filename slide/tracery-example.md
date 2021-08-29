@@ -1,5 +1,5 @@
 ---
-title: Tracery in Action
+title: Tracery in action
 
 tags:
 date: 1003-01-12

@@ -1,5 +1,5 @@
 ---
-title: 👋 Welcome to the Progzine talk!
+title: Welcome to the Progzine talk!
 
 tags:
 date: 1001-02-01

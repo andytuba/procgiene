@@ -19,3 +19,6 @@ about 🤖 bots
 that make 📓zines
 
 (and then we talked about it)
+
+
+*[Let's go through that again a few times, but slower.]*
