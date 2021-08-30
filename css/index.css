@@ -26,9 +26,11 @@ p:last-child {
   margin-bottom: 0;
 }
 p,
-.tmpl-post li,
-img {
+.tmpl-post li {
   max-width: 37.5em; /* 600px /16 */
+}
+.tmpl-list img {
+  max-width: 60%;
 }
 p,
 .tmpl-post li {
@@ -278,7 +280,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 70%;
 }
 p,
 .tmpl-post li {
