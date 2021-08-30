@@ -281,6 +281,10 @@ p,
 .tmpl-post li {
   max-width: 70%;
 }
+.tmpl-post img,
+.tmpl-post iframe {
+  max-width: 50%;
+}
 p,
 .tmpl-post li {
   line-height: 1.45;
